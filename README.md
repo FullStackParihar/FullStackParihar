@@ -9,7 +9,7 @@
 
 - 👨‍💻 My projects are available at [https://github.com/FullStackParihar/Frontend](https://github.com/FullStackParihar/Frontend)
 
-- 💬 Ask me about **MERN Stack, C++, C, DSA, HTML, CSS**
+- 💬 Ask me about **MERN Stack, C++, C, DSA, HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **vishunuparihar239925@gmail.com**
 
