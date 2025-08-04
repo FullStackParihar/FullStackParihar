@@ -10,7 +10,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="center" style="color:#90eebf;">👨‍💻 Full Stack Developer Intern | 🌏 India | ✨ Passionate About MERN Stack</h3>
+<h3 align="center" style="color:#90eebf;">👨‍💻 Junio Associate MERN Stack Developer | 🌏 India | ✨ Passionate About MERN Stack</h3>
 
 <div align="center" style="color:#90eebf;">
 
